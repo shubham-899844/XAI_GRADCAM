@@ -26,7 +26,10 @@ Deep learning models often act as black boxes. Explainability methods like Grad-
 
 🛠️ Setup Instructions
 
-1. Clone the repository**:
+1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/grad-cam-xai.git
 cd grad-cam-xai
+
+pip install -r requirements.txt
+
